@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Pastas temporárias
+.DS_Store
+dist/
+build/
+
+# IDEs
+.vscode/
